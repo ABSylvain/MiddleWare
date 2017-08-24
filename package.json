@@ -1,0 +1,24 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABSylvain/MiddleWare.git"
+  },
+  "author": "bob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABSylvain/MiddleWare/issues"
+  },
+  "homepage": "https://github.com/ABSylvain/MiddleWare#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "http-auth": "^3.2.3"
+  }
+}
